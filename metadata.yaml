@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41309#Love-Letters-of-Nathaniel-Hawthorne-Volume-I--of-2-
 gutenberg_issued: '2012-11-06'
 gutenberg_type: Text
 identifiers:
